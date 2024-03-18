@@ -1,0 +1,3 @@
+﻿  Comenzi.cpp
+C:\Users\Asus\Desktop\Simulator SQLite\Simulator SQLite\Simulator SQLite\Comenzi.cpp(133,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Simulator SQLite.vcxproj -> C:\Users\Asus\Desktop\Simulator SQLite\Simulator SQLite\x64\Debug\Simulator SQLite.exe
